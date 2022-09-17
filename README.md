@@ -2,8 +2,9 @@
 Welcome to my GitHub!
 I'm Ziran Fuzooly, Software Engineer from  Sri Lanka. <img src="https://cdn-icons-png.flaticon.com/512/206/206725.png" width="20"/>
 
+
 # About Me!
-I am a hardworking and ambitious individual with a great passion for the Computer Science and Software Engineering industry. I finished my first and second year of studies in BEng(Hons) in Software Engineering at the University of Westminster. I have excellent communication skills, enabling me to communicate with a wide range of people effectively and have good leadership skills; I completed my Third year Industrial Placement training successfully at Motion Miracles as a Software Engineer Intern. Now I am doing my final year at the University of Westminster.
+I am a hardworking and ambitious individual with a great passion for the Computer Science and Software Engineering industry. I completed my primary degree BEng(Hons) in Software Engineering at the University of Westminster affiliated with Informatics Institute of Technology. I have excellent communication skills, enabling me to communicate with a wide range of people effectively and have good leadership skills; I completed my Third year Industrial Placement training successfully at Motion Miracles as a Software Engineer Intern.After completion of my university degree, Now i am working as a Software Engineer I at Circles.Life.
 
 <h3>Connect With Me</h3>
 <p><a href="https://www.linkedin.com/in/ziranfuzooly/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
