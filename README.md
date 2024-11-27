@@ -21,8 +21,8 @@ My passion for software engineering, combined with my experience and skills, mak
 [![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ziran.fuzooly/)
 
 ## Things I code with
-[![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)]  
-[![Python](https://img.shields.io/badge/-Python-5849BE?style=flat-square&logo=python&logoColor=white)] 
+![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-5849BE?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=java&logoColor=white)  
 ![OOP](https://img.shields.io/badge/-OOP-FB542B?style=flat-square&logo=java&logoColor=white)  
 ![Flask](https://img.shields.io/badge/-Flask-F9A03C?style=flat-square&logo=flask&logoColor=white)  
