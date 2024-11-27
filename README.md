@@ -1,6 +1,6 @@
 # Hey!! Nice to See You  
 Welcome to my GitHub!  
-I'm Ziran Fuzooly, Senior Software Engineer from Sri Lanka. ![icon](https://cdn-icons-png.flaticon.com/512/206/206725.png)
+I'm Ziran Fuzooly, Senior Software Engineer from Sri Lanka.
 
 # About Me!  
 As a software engineer with extensive experience in both front-end and back-end development, I have had the privilege of working with some of the most innovative companies in the industry. I am excited to share my resume and professional experience with you on LinkedIn.
@@ -44,4 +44,5 @@ My passion for software engineering, combined with my experience and skills, mak
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 ![BitBucket](https://img.shields.io/badge/-BitBucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)  
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+
 
