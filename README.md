@@ -5,15 +5,19 @@ I'm Ziran Fuzooly, Senior Software Engineer from Sri Lanka.
 # About Me!  
 As a software engineer with extensive experience in both front-end and back-end development, I have had the privilege of working with some of the most innovative companies in the industry. I am excited to share my resume and professional experience with you on LinkedIn.
 
-Currently, I am working as a Senior Software Engineer at Softvil Technologies, deputed to Grubtech as a consultant. In this role, I focus on delivering robust software solutions and enhancing system efficiency through full-stack development. Prior to this, I worked at Circles.Life, where I contributed to developing a SaaS-based "Digital Telco as a Service" platform used by global telcos. My primary focus there was front-end development, where I worked on new features and enhanced existing ones.
+Currently, I am working as a Senior Software Engineer at Insharp Technologies, where I focus on delivering robust software solutions and enhancing system efficiency through full-stack development. Prior to this, I worked at Softvil Technologies, deputed to Grubtech as a consultant, where I contributed to building scalable and efficient software solutions.
 
-Before joining Circles.Life, I worked as a front-end engineer at Motion Miracles, a gaming company behind some of the most popular games on the market. My main project at Motion Miracles was a dashboard application, where I was involved in front-end development, UI/UX design, database management, and testing. The technologies I used for this project include ReactJS, Bootstrap, and Firebase.
+Before that, I was part of Circles.Life, where I played a key role in developing a SaaS-based "Digital Telco as a Service" platform used by global telcos. My primary focus there was front-end development, working on new features and improving existing ones.
+
+Earlier in my career, I worked as a front-end engineer at Motion Miracles, a gaming company behind some of the most popular games on the market. My main project was a dashboard application, where I was responsible for front-end development, UI/UX design, database management, and testing. The technologies I used for this project included ReactJS, Bootstrap, and Firebase.
 
 Beyond my professional work, I am passionate about mentoring and supporting the next generation of software engineers. I currently serve as a mentor for Future Ready Mentoring at Westminster, helping mentees refine their CVs, cover letters, applications, and LinkedIn profiles, while also providing emotional and career guidance.
 
 In terms of technical skills, I am proficient in React.js, Next.js, JavaScript, TypeScript, Java, Spring Boot, MongoDB, front-end development, web design, Cascading Style Sheets (CSS), WiX, Bootstrap, Blender, and UI/UX. I am constantly expanding my knowledge and staying updated on the latest industry trends and technologies.
 
 My passion for software engineering, combined with my experience and skills, make me a valuable asset to any team. I look forward to connecting with professionals in the industry on LinkedIn and exploring new opportunities.
+
+
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziranfuzooly/)
